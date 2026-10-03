@@ -97,4 +97,9 @@ Made with 🐍 Python, ❤️ hatred for dependencies, and ☕ sleepless nights.
 
 ## ⬇️ Download
 
-[**Скачать popa.py**](https://raw.githubusercontent.com/ТВОЙ_НИК/ИМЯ_РЕПОЗИТОРИЯ/main/popa.py)
+[![Download EvoCalc.py](https://img.shields.io/badge/⬇_Download-evocalc.py-brightgreen?style=for-the-badge&logo=python&logoColor=white)](https://raw.githubusercontent.com/d9341944-bot/Evolutionary-calculator/main/evocalc.py)
+
+**One file. Zero dependencies. Just run:**
+
+```bash
+python evocalc.py
