@@ -93,3 +93,8 @@ text
     ╚═══════════════════════════════════════╝
 
 Made with 🐍 Python, ❤️ hatred for dependencies, and ☕ sleepless nights.
+
+
+## ⬇️ Download
+
+[**Скачать popa.py**](https://raw.githubusercontent.com/ТВОЙ_НИК/ИМЯ_РЕПОЗИТОРИЯ/main/popa.py)
