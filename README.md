@@ -95,11 +95,13 @@ text
 Made with 🐍 Python, ❤️ hatred for dependencies, and ☕ sleepless nights.
 
 
+
 ## ⬇️ Download
 
-[![Download EvoCalc.py](https://img.shields.io/badge/⬇_Download-evocalc.py-brightgreen?style=for-the-badge&logo=python&logoColor=white)](https://raw.githubusercontent.com/d9341944-bot/Evolutionary-calculator/main/evocalc.py)
+[![Download Latest Release](https://img.shields.io/badge/⬇_Download-Latest_Release-brightgreen?style=for-the-badge&logo=python&logoColor=white)](https://github.com/d9341944-bot/Evolutionary-calculator/releases/latest)
 
-**One file. Zero dependencies. Just run:**
+**Or grab the raw file:** [evocalc.py](https://raw.githubusercontent.com/d9341944-bot/Evolutionary-calculator/main/evocalc.py)
+*(если открылся как текст — Ctrl+S, сохрани как `evocalc.py`)*
 
 ```bash
 python evocalc.py
